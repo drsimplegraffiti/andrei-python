@@ -501,6 +501,7 @@ print(matrix[0][2])
 basket  = [1,2,3,4,5,6]
 ```
 
+```python
 ### adding
 basket.append(10)
 new_list = basket
@@ -555,6 +556,7 @@ basket  = ["a", "b","c","d","e"]
 
 print("c" in basket)
 
+```
 
 
 ---
